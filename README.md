@@ -9,7 +9,7 @@ esx_status
 
 # INSTALLATION
 
-1. Download 
+1. Download https://github.com/HarryElSuzio/esx-qalle-needs/archive/master.zip
 
 2. Extract folders in your resources/[esx] folder and rename `esx-qalle-needs`
 

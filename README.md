@@ -4,8 +4,8 @@ esx-qalle-needs
 # REQUIREMENTS
 
 ESX Support
-esx_basicneeds // for bars etc.
-esx_status // for bars etc.
+esx_basicneeds
+esx_status
 
 # INSTALLATION
 

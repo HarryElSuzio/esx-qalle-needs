@@ -2,7 +2,7 @@ ESX                             = nil
 
 Config = {
     Commands = false,
-    StatusBars = false,
+    StatusBars = true,
     Key = 166
 }
 
